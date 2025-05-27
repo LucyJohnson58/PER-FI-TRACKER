@@ -1,0 +1,28 @@
+💰 EXPENSES 💰
+Expense: food
+Amount: MWK200.0
+Date: 2025-05-25
+Description: my daily budget for food
+----------------------
+Expense: foood
+Amount: MWK100.0
+Date: 2025-05-26
+Description: my small daily badget
+----------------------
+Expense: entertainment
+Amount: MWK1000.0
+Date: 2025-05-26
+Description: for watching netflix
+----------------------
+
+💵 INCOME 💵
+Income Source: freelance
+Amount: MWK1000.0
+Date: 2025-05-25
+Description: my source of money
+----------------------
+Income Source: salary
+Amount: MWK10000.0
+Date: 2025-05-26
+Description: moneyyyyyy
+----------------------
